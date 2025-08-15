@@ -61,4 +61,3 @@
 ---
 
 ```diff
-+ ACCESS GRANTED_
